@@ -1,0 +1,7 @@
+{
+  "name": "Copy of World Premiere XTV",
+  "description": "A modern, production-ready YouTube clone built with Next.js, Mux, and Supabase.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
